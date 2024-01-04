@@ -1,0 +1,7 @@
+name: OMinecraft-Bot
+version: '${project.version}'
+main: com.ominecraftbot.ominecraftbot.OMinecraft_Bot
+api-version: '1.20'
+load: STARTUP
+authors: [Leo und Pascal]
+description: A Minecraft Bot powered by Ollama
