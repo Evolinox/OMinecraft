@@ -5,3 +5,6 @@ api-version: '1.20'
 load: STARTUP
 authors: [Leo und Pascal]
 description: A Minecraft Bot powered by Ollama
+commands:
+  HelloWorld:
+
