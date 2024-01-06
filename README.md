@@ -1,5 +1,7 @@
-## OMinecraft - powered by Ollama
-A PaperMC Plugin to incorporate Ollama and the power of AI in Minecraft
+<p align="center">
+  <h1 align="center">OMinecraft - powered by Ollama</h1>
+  <p align="center">A PaperMC Plugin to incorporate Ollama and the power of AI in Minecraft</p>
+</p>
 
 > [!IMPORTANT]
 > This Plugin is currently in development and not yet ready for stable Servers! You are welcome to test the latest [alpha Releases](https://github.com/Evolinox/OMinecraft/releases) and leave valueable Feedback [here](https://github.com/Evolinox/OMinecraft/discussions/categories/feedback)
